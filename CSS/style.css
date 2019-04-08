@@ -1,0 +1,91 @@
+/* body {
+    background: radial-gradient( black, white);
+  } */
+
+.navbar-img {
+    zoom: .13;
+}
+
+#page-header {
+    height: 200px;
+    background: url(../IMG/america-american-flag-blue-sky-951382.jpg) no-repeat center center fixed ; 
+    /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; */
+    
+    background-size: cover;
+    opacity: .4;
+    /* zoom: 2.5; */
+}
+#main-card {
+    margin-top: -40px;
+    background: white;
+    border-radius: 5px;
+    font-size: 16px;
+}
+#special-update {
+    font-family: 'Shadows Into Light', cursive;
+    border-radius: 5px;
+    font-size: 2.3rem;
+    text-align: center;
+    margin-top: 10px;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+#circle-img {
+    zoom: .4;
+    opacity: .9;
+    position: center;
+}
+
+#about-tim {
+    font-size: 12px;
+}
+
+@media (max-width: 599px){
+   
+    #special-update {
+        font-size: 1.8rem;
+    }
+    
+    #main-card {
+        font-size: 14px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+  #about-tim {
+    font-size: 11px;
+}
+   
+}
+
+@media (min-width: 600px){
+
+   
+
+}
+
+@media (min-width: 767px){
+   
+   
+}
+
+@media (min-width: 900px){
+    
+   
+}
+
+@media (min-width: 990px){
+  
+  
+}
+
+@media (min-width: 1200px){
+   
+}
