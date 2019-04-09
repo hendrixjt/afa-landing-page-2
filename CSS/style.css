@@ -7,15 +7,13 @@
 }
 
 #page-header {
-    height: 200px;
-    background: url(../IMG/america-american-flag-blue-sky-951382.jpg) no-repeat center center fixed ; 
-    /* -webkit-background-size: cover;
+    height: 250px;
+    background: url(../IMG/flag-white-wood.jpg) no-repeat center center fixed ; 
+    -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover; */
-    
+    -o-background-size: cover;
     background-size: cover;
-    opacity: .4;
-    /* zoom: 2.5; */
+    opacity: .7;
 }
 #main-card {
     margin-top: -40px;
@@ -39,6 +37,10 @@ h5 {
     zoom: .4;
     opacity: .9;
     position: center;
+}
+
+#connect-support-contact {
+    font-size: .8rem;
 }
 
 #about-tim {
