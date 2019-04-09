@@ -1,6 +1,8 @@
-/* body {
-    background: radial-gradient( black, white);
-  } */
+body {
+    font-family: 'PT Sans', sans-serif;
+    
+    overflow-x: hidden;
+}
 
 .navbar-img {
     zoom: .13;
@@ -41,6 +43,7 @@ h5 {
 
 #connect-support-contact {
     font-size: .8rem;
+    
 }
 
 #about-tim {
